@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/HMATHUSS/AndroidStudioProjects/Week1SampleProject/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/avatar_1.xml" value="0.171" />
         <entry key="app/src/main/res/drawable/item_outline_style.xml" value="0.2345" />
         <entry key="app/src/main/res/layout/fragment_transform.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/item_transform.xml" value="0.192481884057971" />
